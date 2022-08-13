@@ -25,40 +25,40 @@ and have a priority over other things.
 
 - Design and architecture
 	D&A is necessary to write code that human understand and I can test easily.
-	- clean code: this book is the most popular book among developer and will help us improve
+	- **clean code**: this book is the most popular book among developer and will help us improve
 	readability and testability of your code which make a good programmer a good programmer.
 	
-	- pragmatic programmer: time is money this book will help you do you job in the most
+	- **pragmatic programmer**: time is money this book will help you do you job in the most
 	pragmatic way saving time (its good for beginners).
 
-	- Code Complete: A Practical Handbook of Software Construction: a nice addition
+	- **Code Complete**: A Practical Handbook of Software Construction: a nice addition
 	to The Pragmatic Programmer, gives you the necessary framework to talk about code.
 	
-	- Design Patterns: Elements of Reusable Object-Oriented Software: 
+	- **Design Patterns**: Elements of Reusable Object-Oriented Software: 
 
-	- Refactoring:
+	- **Refactoring**:
 
 - Algo and Data Structure
 	Algo&DS is so important skills to get some balls to take an interview with FAANG 
-	- Introduction to Algorithms: uniquely combines rigor and comprehensiveness.
+	- **Introduction to Algorithms**: uniquely combines rigor and comprehensiveness.
 	The book covers a broad range of algorithms in depth
 
-	- The Algorithm Design Manual: let's take some 1337kh to FAANG
+	- **The Algorithm Design Manual**: let's take some 1337kh to FAANG
 
 - Kernel
 	we need some students to crack the universe and have no life Maher recommanded those books:
-	- Understanding the linux kernel: no life
-	- Linux Device Driver: no life
-	- Linux Kernel development: no life
+	- **Understanding the linux kernel**: no life
+	- **Linux Device Driver**: no life
+	- **Linux Kernel development**: no life
 
-- Languages:
+- Languages
 	we learn languages from videos and it's wrong learn from source:
-	- the C programming language:
+	- **the C programming language**:
 	- effictive C++:
-	- Zero To Production In Rust:
-	- rust for rustaceans:
-	- Writing An Interpreter In Go:
+	- **Zero To Production In Rust**:
+	- **rust for rustaceans**:
+	- **Writing An Interpreter In Go**:
 	- this List is expandable
 
 # Where is the X book
-Fill free to pull request and we will discuss the X book.
+Fell free to pull request and we will discuss the X book.
