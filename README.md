@@ -7,7 +7,7 @@ by students and former students or anyone who believe in our skills
 and our potential.
 
 # Why?
-42 network has one the most effective cursus in the world.
+42 network have one of the most effective cursus in the world.
 the people behind it are smart people and know what they are doing.
 while the cursus can teach you about some important technical areas in computer science,
 I am sure that it's not enough and 42 knows that. we should learn by ourselves.
@@ -15,7 +15,7 @@ I am sure that it's not enough and 42 knows that. we should learn by ourselves.
 With that in mind we think that we need a library where we can discover new things,
 learn more and boost our skills making 1337 proud of their students.
 
-The companies will be glad to see a 1.5 year student with to much knowlege about software
+The companies will be glad to see a 1.5 year student with too much knowlege about software
 architecture and design patterns ...
 those skills that a 1337 student would normally learn in the internship.
 
@@ -64,5 +64,4 @@ There are some highly recommanded books in computer science that are going to be
 Fell free to pull request and we will discuss the X book.
 
 # Athena Club Moderators
-Maher Azzouzi
-Ismail Ait Bella
+Maher Azzouzi - Ismail Ait Bella
