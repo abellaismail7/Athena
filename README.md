@@ -2,9 +2,9 @@
 Athena is comming to our school(1337KH) with blessing of god.
 
 # About the project
-this project is intended to launch a library in 1337Kh sponsored
-by students and former students or anyone who believe in our skill
-and out potentials.
+This project is intended to start a library in 1337Kh sponsored
+by students and former students or anyone who believe in our skills
+and our potential.
 
 # Why?
 42 network have one the most effective cursus in the world.
@@ -15,12 +15,12 @@ I am sure that it's not enough and 42 knows that. we should learn by ourselves.
 With that in mind we think that we need a library where we can discover new things,
 learn more and boost our skills making 1337 proud of thier students.
 
-the companies will be glad to see a 1.5 year student with to much knowlege about software
+The companies will be glad to see a 1.5 year student with to much knowlege about software
 architecture and design patterns ...
 those skills that a 1337 student would normally learn in the internship.
 
 # What books
-there are some highly recommanded book in computer science that for sure we going to buy
+There are some highly recommanded book in computer science that for sure we going to buy
 and have a priority over other things.
 
 - Design and architecture
@@ -34,31 +34,36 @@ and have a priority over other things.
 	- **Code Complete**: A Practical Handbook of Software Construction: a nice addition
 	to The Pragmatic Programmer, gives you the necessary framework to talk about code.
 	
-	- **Design Patterns**: Elements of Reusable Object-Oriented Software: 
+	- **Design Patterns: Elements of Reusable Object-Oriented Software**: this is an introduction to follow
+	patterns that all programmers are familiar with.
 
-	- **Refactoring**:
+	- **Refactoring**: you code isn't perfect let's make it better and better.
 
 - Algo and Data Structure
 	Algo&DS is so important skills to get some balls to take an interview with FAANG 
 	- **Introduction to Algorithms**: uniquely combines rigor and comprehensiveness.
-	The book covers a broad range of algorithms in depth
+	The book covers a broad range of algorithms in depth.
 
-	- **The Algorithm Design Manual**: let's take some 1337kh to FAANG
+	- **The Algorithm Design Manual**: let's take some 1337kh to FAANG.
 
 - Kernel
-	we need some students to crack the universe and have no life Maher recommanded those books:
-	- **Understanding the linux kernel**: no life
-	- **Linux Device Driver**: no life
-	- **Linux Kernel development**: no life
+	We need some students to crack the universe and have no life Maher recommanded those books:
+	- **Understanding the linux kernel**: no life;
+	- **Linux Device Driver**: no life;
+	- **Linux Kernel development**: no life;
 
 - Languages
-	we learn languages from videos and it's wrong learn from source:
-	- **the C programming language**:
-	- effictive C++:
-	- **Zero To Production In Rust**:
-	- **rust for rustaceans**:
-	- **Writing An Interpreter In Go**:
-	- this List is expandable
+	We learn languages from videos and it's wrong learn from source:
+	- **The C programming language**;
+	- **Effictive C++**;
+	- **Zero To Production In Rust**;
+	- **Rust for rustaceans**;
+	- **Writing An Interpreter In Go**;
+	- this List is expandable (JS is welcomed ^_^)
 
 # Where is the X book
 Fell free to pull request and we will discuss the X book.
+
+# Athena Club Moderators
+Maher Azzouzi
+Ismail Ait Bella
