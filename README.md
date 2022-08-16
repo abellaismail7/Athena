@@ -30,9 +30,6 @@ those skills that a 1337 student would normally learn in the internship.
 # What books
 There are some highly recommanded books in computer science that are going to be prioritized over other things.
 
-***
-&nbsp;
-
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
 
