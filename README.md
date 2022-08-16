@@ -1,4 +1,4 @@
-![Athena](./assets/athena_picture.jpg)
+<img src="./assets/athena_picture.jpg" width="300">
 
 # Athena
 Athena is comming to our school ( **1337KH** ) with blessing of god.
@@ -31,63 +31,69 @@ those skills that a 1337 student would normally learn in the internship.
 There are some highly recommanded books in computer science that are going to be prioritized over other things.
 
 ***
+&nbsp;
 
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
 
 | Book | Description |
 | ---- | ----------- |
-| `Clean Code` | most popular book among developers and will help us improve readability and testability of your code, which makes a good programmer a good programmer. |
-| `Pragmatic Programmer` | time is money, this book will help you do your job in the most pragmatic way saving time (it's good for beginners). |
-| `Code Complete: a Practical Handbook of Software Construction` | a nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
-| `Design Patterns: Elements of Reusable Object-Oriented Software` | this is an introduction to follow patterns that all programmers are familiar with. |
-| `Refactoring` | your code isn't perfect ? let's make it better and better. |
+| **Clean Code** | most popular book among developers and will help us improve readability and testability of your code, which makes a good programmer a good programmer. |
+| **Pragmatic Programmer** | time is money, this book will help you do your job in the most pragmatic way saving time (it's good for beginners). |
+| **Code Complete: a Practical Handbook of Software Construction** | a nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
+| **Design Patterns: Elements of Reusable Object-Oriented Software** | this is an introduction to follow patterns that all programmers are familiar with. |
+| **Refactoring** | your code isn't perfect ? let's make it better and better. |
 
 ***
+&nbsp;
 
 ## **- Algo and Data Structure**
 Algo&DS is so important skills to get some balls to take an interview with FAANG 
 
 | Book | Description |
 | ---- | ----------- |
-| `Introduction to Algorithms`  | uniquely combines rigor and comprehensiveness, the book covers a broad range of algorithms in depth. |
-| `The Algorithm Design Manual` | let's take some 1337kh to FAANG. |
+| **Introduction to Algorithms**  | uniquely combines rigor and comprehensiveness, the book covers a broad range of algorithms in depth. |
+| **The Algorithm Design Manual** | let's take some 1337kh to FAANG. |
 
 ***
+&nbsp;
 
 ## **- Kernel**
 We need some students to crack the universe and have no life Maher recommanded those books:
 
 | Book | Description |
 | ---- | ----------- |
-| `Understanding the linux kernel` | no life; |
-| `The Algorithm Design Manual`    | no life; |
+| **Understanding the linux kernel** | no life; |
+| **The Algorithm Design Manual**    | no life; |
 
 ***
+&nbsp;
 
 ## **- Languages**
 We learn languages from videos and it's wrong learn from source:
 
 | Book | Description |
 | ---- | ----------- |
-| `The C programming language`   | |
-| `Effictive C++`                | |
-| `Zero To Production In Rust`   | |
-| `Rust for rustaceans`          | |
-| `Writing An Interpreter In Go` | |
+| **The C programming language**   | |
+| **Effictive C++**                | |
+| **Zero To Production In Rust**   | 🦀 |
+| **Rust for rustaceans**          | 🦀 |
+| **Writing An Interpreter In Go** | |
 
 > This List is expandable !( JS is welcomed ^_^ )
 
 ***
+&nbsp;
 
 ## **- AI and Data Science**
 let's explore the skill of the century !! 
 
 | Book | Description |
 | ---- | ----------- |
-| `Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow`  | Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
-| `Designing Machine Learning Systems` | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
+| **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  | Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
+| **Designing Machine Learning Systems** | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
 
+***
 &nbsp;
 
 ## Where is the X book
@@ -99,7 +105,9 @@ Fell free to pull request and we will discuss the X book.
 # Athena Club Moderators
 Maher Azzouzi - Ismail Ait Bella
 
-&nbsp;
+
+
+🐢
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
