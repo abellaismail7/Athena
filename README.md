@@ -42,6 +42,7 @@ There are some highly recommanded books in computer science that are going to be
 	Algo&DS is so important skills to get some balls to take an interview with FAANG 
 	- **Introduction to Algorithms**: uniquely combines rigor and comprehensiveness.
 	The book covers a broad range of algorithms in depth.
+	- **A common sense guide to data structures and algorithms** a beginner friendly book for algorithms and data structures
 
 	- **The Algorithm Design Manual**: let's take some 1337kh to FAANG.
 
@@ -58,6 +59,8 @@ There are some highly recommanded books in computer science that are going to be
 	- **Zero To Production In Rust**;
 	- **Rust for rustaceans**;
 	- **Writing An Interpreter In Go**;
+	- **Eloquent javascript**;
+	- **You don't know Js**
 	- this List is expandable (JS is welcomed ^_^)
 
 # Where is the X book
