@@ -94,7 +94,6 @@ let's explore the skill of the century !!
 
 | Book | Description |
 | ---- | ----------- |
-| ---- | ----------- |
 | **The Machine Learning Simplified: A Gentle Introduction to Supervised Learning** | (beginner) simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes |
 | **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  | (Intermidiate) Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
 | **Designing Machine Learning Systems** | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
