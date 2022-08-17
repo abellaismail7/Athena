@@ -107,7 +107,7 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 | Book | Description |
 | ---- | ----------- |
 | **Android Security Internals**  | An In-Depth Guide to Android's Security Architecture
-| **Android Hacker's Handbook **  | Discovering and preventing attacks on the Android OS
+| **Android Hacker's Handbook**  | Discovering and preventing attacks on the Android OS
 | **The Art of macOS malware** | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
 | **Bug Bounty Bootcamp** | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
 | **Black Hat Go** | Explore the darker side of Go. |
