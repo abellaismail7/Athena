@@ -62,6 +62,7 @@ There are some highly recommanded books in computer science that are going to be
 	- **Eloquent javascript**;
 	- **You don't know Js**
 	- this List is expandable (JS is welcomed ^_^)
+	- Fluent Python
 
 # Where is the X book
 Fell free to pull request and we will discuss the X book.
