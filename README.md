@@ -1,7 +1,7 @@
 # Athena
 Athena is comming to our school ( **1337KH** ) with blessing of god.
 
-<img src="./assets/school_of_athen.jpg" width="500">
+<img src="./assets/school_of_athen.jpg">
 
 &nbsp;
 
