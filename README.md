@@ -79,6 +79,7 @@ We learn languages from videos and it's wrong learn from source:
 | **Writing An Interpreter In Go** | |
 | **Eloquent javascript**          | 🤑 |
 | **You don't know Js**            | |
+| **Fluent Python**                | |
 
 > This List is expandable !( JS is welcomed ^_^ )
 
