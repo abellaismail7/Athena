@@ -30,6 +30,8 @@ those skills that a 1337 student would normally learn in the internship.
 # What books
 There are some highly recommanded books in computer science that are going to be prioritized over other things.
 
+&nbsp;
+
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
 
@@ -79,7 +81,7 @@ We learn languages from videos and it's wrong learn from source:
 | **Writing An Interpreter In Go** | |
 | **Eloquent javascript**          | 🤑 |
 | **You don't know Js**            | |
-| **Fluent Python**                | |
+| **Fluent Python**                | 🐍 |
 
 > This List is expandable !( JS is welcomed ^_^ )
 
@@ -109,6 +111,3 @@ Maher Azzouzi - Ismail Ait Bella
 
 
 🐢
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
