@@ -62,7 +62,8 @@ We need some students to crack the universe and have no life Maher recommanded t
 | Book | Description |
 | ---- | ----------- |
 | **Understanding the linux kernel** | no life; |
-| **The Algorithm Design Manual**    | no life; |
+| **Linux Device Driver** | no life; |
+| **Linux Kernel development** | no life; |
 
 ***
 &nbsp;
@@ -73,7 +74,7 @@ We learn languages from videos and it's wrong learn from source:
 | Book | Description |
 | ---- | ----------- |
 | **The C programming language**   | |
-| **Effictive C++**                | |
+| **Effective C++**                | |
 | **Zero To Production In Rust**   | 🦀 |
 | **Rust for rustaceans**          | 🦀 |
 | **Writing An Interpreter In Go** | |
