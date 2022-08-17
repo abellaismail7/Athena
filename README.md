@@ -1,7 +1,7 @@
-<img src="./assets/athena_picture.jpg" width="300">
-
 # Athena
 Athena is comming to our school ( **1337KH** ) with blessing of god.
+
+<img src="./assets/school_of_athen.jpg" width="500">
 
 &nbsp;
 
@@ -50,6 +50,7 @@ Algo&DS is so important skills to get some balls to take an interview with FAANG
 | Book | Description |
 | ---- | ----------- |
 | **Introduction to Algorithms**  | uniquely combines rigor and comprehensiveness, the book covers a broad range of algorithms in depth. |
+| **A common sense guide to data structures and algorithms** | a beginner friendly book for algorithms and data structures |
 | **The Algorithm Design Manual** | let's take some 1337kh to FAANG. |
 
 ***
@@ -76,6 +77,8 @@ We learn languages from videos and it's wrong learn from source:
 | **Zero To Production In Rust**   | 🦀 |
 | **Rust for rustaceans**          | 🦀 |
 | **Writing An Interpreter In Go** | |
+| **Eloquent javascript**          | 🤑 |
+| **You don't know Js**            | |
 
 > This List is expandable !( JS is welcomed ^_^ )
 
