@@ -61,7 +61,9 @@ There are some highly recommanded books in computer science that are going to be
 	- **Writing An Interpreter In Go**;
 	- **Eloquent javascript**;
 	- **You don't know Js**
+	- **Fluent Python**;
 	- this List is expandable (JS is welcomed ^_^)
+
 
 # Where is the X book
 Fell free to pull request and we will discuss the X book.
