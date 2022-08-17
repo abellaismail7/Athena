@@ -1,7 +1,7 @@
 # Athena
 Athena is comming to our school ( **1337KH** ) with blessing of god.
 
-<img src="./assets/school_of_athen.jpg" width="500">
+<img src="./assets/school_of_athen.jpg">
 
 &nbsp;
 
@@ -29,6 +29,8 @@ those skills that a 1337 student would normally learn in the internship.
 
 # What books
 There are some highly recommanded books in computer science that are going to be prioritized over other things.
+
+&nbsp;
 
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
@@ -62,7 +64,8 @@ We need some students to crack the universe and have no life Maher recommanded t
 | Book | Description |
 | ---- | ----------- |
 | **Understanding the linux kernel** | no life; |
-| **The Algorithm Design Manual**    | no life; |
+| **Linux Device Driver** | no life; |
+| **Linux Kernel development** | no life; |
 
 ***
 &nbsp;
@@ -73,7 +76,7 @@ We learn languages from videos and it's wrong learn from source:
 | Book | Description |
 | ---- | ----------- |
 | **The C programming language**   | |
-| **Effictive C++**                | |
+| **Effective C++**                | |
 | **Zero To Production In Rust**   | 🦀 |
 | **Rust for rustaceans**          | 🦀 |
 | **Writing An Interpreter In Go** | |
