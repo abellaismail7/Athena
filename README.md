@@ -57,13 +57,16 @@ Algo&DS is so important skills to get some balls to take an interview with FAANG
 &nbsp;
 
 ## **- Kernel**
+And because the kernel is a critical component and even the smallest flaws on this component can take whole infrastructures down, learning the kernel is a must.
 We need some students to crack the universe and have no life Maher recommanded those books:
 
 | Book | Description |
 | ---- | ----------- |
-| **Understanding the linux kernel** | no life; |
-| **Linux Device Driver** | no life; |
-| **Linux Kernel development** | no life; |
+| **Understanding the linux kernel** | Learn the internals of the greatest kernel ever written on this fucking planet.|
+| **Linux Device Driver** | Learn the module subsystem and driver development.|
+| **Linux Kernel development** | Learn how to help developping the kernel maybe introduce a new subsystem.|
+| **A Guide to Kernel Exploitation: Attacking the Core**| Learn common kernel programmers mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
+
 
 ***
 &nbsp;
@@ -103,15 +106,34 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 
 | Book | Description |
 | ---- | ----------- |
+| **Android Security Internals**  | An In-Depth Guide to Android's Security Architecture
+| **Android Hacker's Handbook**  | Discovering and preventing attacks on the Android OS
 | **The Art of macOS malware** | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
 | **Bug Bounty Bootcamp** | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
 | **Black Hat Go** | Explore the darker side of Go. |
 | **Hacking APIs** | A detailed course to conduct web API security testing. |
-| **RTFM (RED TEAM FIELD MANUAL)**  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages |
 
 ***
 &nbsp;
 
+## **- Blockchain**
+"Everything will be tokenized and connected by a blockchain one day." -Fred Ehrsam
+
+| Book | Description |
+| ---- | ----------- |
+| **Mastering Blockchain** |  A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more|
+
+***
+&nbsp;
+
+## **- Miscellaneous**
+The books found here are not really categorized and can be everything under the IT umbrella.
+
+| Book | Description |
+| ---- | ----------- |
+| **RTFM (RED TEAM FIELD MANUAL)**  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages |
+
+***
 ## Where is the X book
 May the strength of Ares and wisdom of Athena see you through,
 Fell free to pull request and we will discuss the X book.
