@@ -47,7 +47,7 @@ Data structures and algorithms are necessary to write understandable and maintai
 &nbsp;
 
 ## **- Algo and Data Structure**
-Algo&DS is so important skills to get some balls to take an interview with FAANG 
+Algo&DS is so important skills to get some balls to take an interview with FAANG
 
 | Book | Description |
 | ---- | ----------- |
@@ -90,7 +90,7 @@ We learn languages from videos and it's wrong learn from source:
 &nbsp;
 
 ## **- AI and Data Science**
-let's explore the skill of the century !! 
+let's explore the skill of the century !!
 
 | Book | Description |
 | ---- | ----------- |
@@ -100,8 +100,22 @@ let's explore the skill of the century !!
 ***
 &nbsp;
 
+## **- Security**
+The biggest issue you'll face in security, and in life, is your own stupidity.
+
+| Book | Description |
+| ---- | ----------- |
+| **The Art of macOS malware** | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
+| **Bug Bounty Bootcamp** | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
+| **Black Hat Go** | Explore the darker side of Go. |
+| **Hacking APIs** | A detailed course to conduct web API security testing. |
+| **RTFM (RED TEAM FIELD MANUAL)**  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages |
+
+***
+&nbsp;
+
 ## Where is the X book
-May the strength of Ares and wisdom of Athena see you through, 
+May the strength of Ares and wisdom of Athena see you through,
 Fell free to pull request and we will discuss the X book.
 
 &nbsp;
