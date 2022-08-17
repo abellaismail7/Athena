@@ -106,9 +106,4 @@ Fell free to pull request and we will discuss the X book.
 # Athena Club Moderators
 Maher Azzouzi - Ismail Ait Bella
 
-
-
 🐢
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
