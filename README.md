@@ -30,6 +30,8 @@ those skills that a 1337 student would normally learn in the internship.
 # What books
 There are some highly recommanded books in computer science that are going to be prioritized over other things.
 
+&nbsp;
+
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
 
@@ -95,7 +97,8 @@ let's explore the skill of the century !!
 
 | Book | Description |
 | ---- | ----------- |
-| **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  | Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
+| **The Machine Learning Simplified: A Gentle Introduction to Supervised Learning** | (beginner) simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes |
+| **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**  | (Intermidiate) Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
 | **Designing Machine Learning Systems** | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
 
 ***
@@ -142,10 +145,3 @@ Fell free to pull request and we will discuss the X book.
 
 # Athena Club Moderators
 Maher Azzouzi - Ismail Ait Bella
-
-
-
-🐢
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
