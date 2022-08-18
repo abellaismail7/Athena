@@ -32,6 +32,14 @@ There are some highly recommanded books in computer science that are going to be
 
 &nbsp;
 
+## **- First Principles**
+Books outlining theoretical computer science concepts, and underlying fundamentals.
+| Book | Description |
+| ---- | ----------- |
+| **Structure and Interpretation of Computer Programs** |  known as the "Wizard Book" in hacker culture.[1][2] It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
+***
+&nbsp;
+
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
 
@@ -115,16 +123,6 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 | **Bug Bounty Bootcamp** | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
 | **Black Hat Go** | Explore the darker side of Go. |
 | **Hacking APIs** | A detailed course to conduct web API security testing. |
-
-***
-&nbsp;
-
-## **- Blockchain**
-"Everything will be tokenized and connected by a blockchain one day." -Fred Ehrsam
-
-| Book | Description |
-| ---- | ----------- |
-| **Mastering Blockchain** |  A deep dive into distributed ledgers, consensus protocols, smart contracts, DApps, cryptocurrencies, Ethereum, and more|
 
 ***
 &nbsp;
