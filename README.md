@@ -136,6 +136,7 @@ The books found here are not really categorized and can be everything under the 
 | ---- | ----------- |
 | **RTFM (RED TEAM FIELD MANUAL)**  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages|
 | **APPRENDRE 3.0** | a book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
+| **The Mythical Man-Month** | Essays on Software Engineering and project management |
 
 ***
 ## Where is the X book
