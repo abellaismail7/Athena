@@ -36,7 +36,7 @@ There are some highly recommanded books in computer science that are going to be
 Books outlining theoretical computer science concepts, and underlying fundamentals.
 | Book | Description |
 | ---- | ----------- |
-| **Structure and Interpretation of Computer Programs** |  known as the "Wizard Book" in hacker culture.[1][2] It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
+| **Structure and Interpretation of Computer Programs** |  known as the "Wizard Book" in hacker culture. It teaches fundamental principles of computer programming, including recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
 ***
 &nbsp;
 
