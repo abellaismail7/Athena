@@ -28,7 +28,7 @@ those skills that a 1337 student would normally learn in the internship.
 &nbsp;
 
 # What books
-There are some highly recommanded books in computer science that are going to be prioritized over other things.
+There are some highly recommended books in computer science that are going to be prioritized over other things.
 
 &nbsp;
 
@@ -60,7 +60,7 @@ Algo&DS is so important skills to get some balls to take an interview with FAANG
 
 ## **- Kernel**
 And because the kernel is a critical component and even the smallest flaws on this component can take whole infrastructures down, learning the kernel is a must.
-We need some students to crack the universe and have no life Maher recommanded those books:
+We need some students to crack the universe and have no life Maher recommended those books:
 
 | Book | Description |
 | ---- | ----------- |
