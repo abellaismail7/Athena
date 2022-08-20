@@ -89,13 +89,13 @@ We learn languages from videos and it's wrong learn from source:
 | Book | Description |
 | ---- | ----------- |
 | [**The C programming language**](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?crid=QXMFTNGMHXVU&keywords=The+C+programming+language&qid=1660995212&s=books&sprefix=the+c+programming+language%2Cstripbooks-intl-ship%2C145&sr=1-1)   | |
-| [**Effective C++**]()                | |
-| [**Zero To Production In Rust**]()   | 🦀 |
-| [**Rust for rustaceans**]()          | 🦀 |
-| [**Writing An Interpreter In Go**]() | |
-| [**Eloquent javascript**]()          | 🤑 |
-| [**You don't know Js**]()            | |
-| [**Fluent Python**]()                | |
+| [**Effective C++**](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/ref=sr_1_1?crid=1MQVZTTE31F2K&keywords=Effective+C%2B%2B&qid=1660995601&s=books&sprefix=effective+c%2B%2Cstripbooks-intl-ship%2C165&sr=1-1)                | |
+| [**Zero To Production In Rust**](https://www.goodreads.com/en/book/show/55730109-zero-to-production-in-rust)   | 🦀 |
+| [**Rust for rustaceans**](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)          | 🦀 |
+| [**Writing An Interpreter In Go**](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118/ref=sr_1_1?keywords=writing+an+interpreter+in+go&qid=1660995709&s=books&sprefix=writing+an+interpte%2Cstripbooks-intl-ship%2C169&sr=1-1) | |
+| [**Eloquent javascript**](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=sr_1_1?keywords=eloquent+javascript&qid=1660995730&s=books&sprefix=eloquen%2Cstripbooks-intl-ship%2C162&sr=1-1)          | 🤑 |
+| [**You don't know Js**](https://www.amazon.com/You-Dont-Know-JS-Yet/dp/B084DFZ6GW/ref=sr_1_1?keywords=you+don%27t+know+js&qid=1660995754&s=books&sprefix=you+don%27t+kn%2Cstripbooks-intl-ship%2C160&sr=1-1)            | |
+| [**Fluent Python**](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?keywords=fluent+python&qid=1660995775&s=books&sprefix=fluent+%2Cstripbooks-intl-ship%2C164&sr=1-1)                | |
 
 > This List is expandable !( JS is welcomed ^_^ )
 
@@ -107,9 +107,9 @@ let's explore the skill of the century !!
 
 | Book | Description |
 | ---- | ----------- |
-| [**The Machine Learning Simplified: A Gentle Introduction to Supervised Learning**]() | (beginner) simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes |
-| [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**]()  | (Intermidiate) Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
-| [**Designing Machine Learning Systems**]() | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
+| [**The Machine Learning Simplified: A Gentle Introduction to Supervised Learning**](https://www.amazon.com/Machine-Learning-Simplified-Introduction-Supervised-ebook/dp/B0B216KMM4/ref=sr_1_1?crid=35ABHT3NVYAOD&keywords=The+Machine+Learning+Simplified%3A+A+Gentle+Introduction+to+Supervised+Learning&qid=1660995833&s=books&sprefix=the+machine+learning+simplified+a+gentle+introduction+to+supervised+learning%2Cstripbooks-intl-ship%2C170&sr=1-1) | (beginner) simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes |
+| [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?crid=T11YKNANLISC&keywords=Hands-On+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow&qid=1660995859&s=books&sprefix=hands-on+machine+learning+with+scikit-learn%2C+keras%2C+and+tensorflow%2Cstripbooks-intl-ship%2C157&sr=1-1)  | (Intermidiate) Its goal is to give you the concepts, tools, and intuition you need to implement programs capable of learning from data |
+| [**Designing Machine Learning Systems**](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=23B0KAOTJ2L6R&keywords=Designing+Machine+Learning+Systems&qid=1660995880&s=books&sprefix=designing+machine+learning+systems%2Cstripbooks-intl-ship%2C153&sr=1-1) | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
 
 ***
 &nbsp;
@@ -119,24 +119,22 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 
 | Book | Description |
 | ---- | ----------- |
-| [**Android Security Internals**]()  | An In-Depth Guide to Android's Security Architecture
-| [**Android Hacker's Handbook**]()  | Discovering and preventing attacks on the Android OS
-| [**The Art of macOS malware**] | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
-| [**Bug Bounty Bootcamp** | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
-| [**Black Hat Go** | Explore the darker side of Go. |
-| [**Hacking APIs** | A detailed course to conduct web API security testing. |
+| [**Android Security Internals**](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811/ref=sr_1_1?keywords=android+security+internals&qid=1660995903&s=books&sprefix=android+security+in%2Cstripbooks-intl-ship%2C162&sr=1-1)  | An In-Depth Guide to Android's Security Architecture
+| [**Android Hacker's Handbook**](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/ref=sr_1_1?crid=8145BWVITJIG&keywords=android+hacker%27s+handbook&qid=1660995925&s=books&sprefix=android+hacker%27s+handbook%2Cstripbooks-intl-ship%2C154&sr=1-1)  | Discovering and preventing attacks on the Android OS
+| [**The Art of macOS malware**](https://www.amazon.com/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943) | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
+| [**Bug Bounty Bootcamp**](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544/ref=sr_1_1?keywords=bug+bounty+bootcamp&qid=1660995981&s=books&sprefix=bug+boun%2Cstripbooks-intl-ship%2C156&sr=1-1) | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
+| [**Black Hat Go**](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=sr_1_1?crid=1WFXR3928KV37&keywords=black+hat+go&qid=1660996001&s=books&sprefix=black+hat+go%2Cstripbooks-intl-ship%2C161&sr=1-1) | Explore the darker side of Go. |
+| [**Hacking APIs**](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443/ref=sr_1_1?crid=TS8VZBW5EJV4&keywords=hacking+APIs&qid=1660996022&s=books&sprefix=hacking+apis%2Cstripbooks-intl-ship%2C148&sr=1-1) | A detailed course to conduct web API security testing. |
 
-***
-&nbsp;
 
 ## **- Miscellaneous**
 The books found here are not really categorized and can be everything under the IT umbrella.
 
 | Book | Description |
 | ---- | ----------- |
-| **RTFM (RED TEAM FIELD MANUAL)**  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages|
-| **APPRENDRE 3.0** | a book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
-| **The Mythical Man-Month** | Essays on Software Engineering and project management |
+| [**RTFM (RED TEAM FIELD MANUAL)**](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)  | Just like the name suggests, this book is for red teams who occasionally find themselves scanning through man pages|
+| [**APPRENDRE 3.0**](https://www.amazon.com/Apprendre-3-0-linventeur-p%C3%A9dagogie-Epitech/dp/2412047995) | a book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
+| [**The Mythical Man-Month**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?keywords=the+mythical+man-month&qid=1660996124&s=books&sprefix=the+mythical+%2Cstripbooks-intl-ship%2C152&sr=1-1) | Essays on Software Engineering and project management |
 
 ***
 ## Where is the X book
