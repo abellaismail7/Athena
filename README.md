@@ -64,6 +64,7 @@ Algo&DS is so important skills to get some balls to take an interview with FAANG
 | [**A common sense guide to data structures and algorithms**](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_1?crid=7IHXSP373XHE&keywords=A+common+sense+guide+to+data+structures+and+algorithms&qid=1660995011&s=books&sprefix=a+common+sense+guide+to+data+structures+and+algorithms%2Cstripbooks-intl-ship%2C143&sr=1-1) | a beginner friendly book for algorithms and data structures |
 | [**The Algorithm Design Manual**](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=sr_1_1?crid=15PRTNSUMTJZJ&keywords=The+Algorithm+Design+Manual&qid=1660994977&s=books&sprefix=the+algorithm+design+manual%2Cstripbooks-intl-ship%2C141&sr=1-1) | let's take some 1337kh to FAANG. |
 | [**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_3839_sccl_2/137-5769906-1631026?pd_rd_i=0984782850&psc=1) | Programming Questions and Solutions |
+| [** Grokking Algorithms **](https://www.amazon.fr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230) | Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. |
 
 ***
 &nbsp;
