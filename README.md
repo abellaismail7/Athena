@@ -63,6 +63,7 @@ Algo&DS is so important skills to get some balls to take an interview with FAANG
 | **Introduction to Algorithms**  | uniquely combines rigor and comprehensiveness, the book covers a broad range of algorithms in depth. |
 | **A common sense guide to data structures and algorithms** | a beginner friendly book for algorithms and data structures |
 | **The Algorithm Design Manual** | let's take some 1337kh to FAANG. |
+| **Cracking the Coding Interview** | Programming Questions and Solutions |
 
 ***
 &nbsp;
