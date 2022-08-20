@@ -140,7 +140,7 @@ The books found here are not really categorized and can be everything under the 
 ***
 ## Where is the X book
 May the strength of Ares and wisdom of Athena see you through,
-Fell free to pull request and we will discuss the X book.
+Feel free to pull request and we will discuss the X book.
 
 &nbsp;
 
