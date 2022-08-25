@@ -53,7 +53,7 @@ There are some highly recommanded books in computer science that are going to be
 	- **Linux Kernel development**: no life;
 
 - Git
-	to became really hard to manage and maintain all the changes and updates of your projects repository. thos same good resources:
+	to became really hard to manage and maintain all the changes and updates of your projects repository. those same good resources:
 
 	- **A Visual Git Reference** - Mark Lodato
 	- **Ry's Git Tutorial** - Ryan Hodson
