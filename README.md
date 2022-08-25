@@ -52,6 +52,15 @@ There are some highly recommanded books in computer science that are going to be
 	- **Linux Device Driver**: no life;
 	- **Linux Kernel development**: no life;
 
+- Git
+	to became really hard to manage and maintain all the changes and updates of your projects repository. thos same good resources:
+
+	- **A Visual Git Reference** - Mark Lodato
+	- **Ry's Git Tutorial** - Ryan Hodson
+	- **Git Workflows** - Yan Pritzker
+	- **A git Primer** - Daniel Miessler
+	- **Git Pocket Guide** - Richard E. Silverman
+
 - Languages
 	We learn languages from videos and it's wrong learn from source:
 	- **The C programming language**;
