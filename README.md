@@ -3,14 +3,10 @@ Athena is comming to our school ( **1337KH** ) with blessing of God.
 
 <img src="./assets/school_of_athen.jpg">
 
-&nbsp;
-
 # About the project
 This project is intended to set up a physical library in 1337Kh sponsored
 by students and former students or anyone who believes in our skills
 and potential.
-
-&nbsp;
 
 # Why?
 The 42 network has one of the most effective cursus in the world.
@@ -25,12 +21,8 @@ The companies will be glad to see a 1.5 year student with so much knowlege about
 architecture and design patterns...
 Those skills that a 1337 student would normally learn in the internship.
 
-&nbsp;
-
 # What books
 There are some highly recommended books in computer science that are going to be prioritized over other.
-
-&nbsp;
 
 ## **- First Principles**
 Books outlining theoretical computer science concepts, and underlying fundamentals.
@@ -38,7 +30,6 @@ Books outlining theoretical computer science concepts, and underlying fundamenta
 | ---- | ----------- |
 | [**Structure and Interpretation of Computer Programs**](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) |  Known as the "Wizard Book" in the hacker culture. It teaches fundamental principles of computer programming, including : recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) / [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
 ***
-&nbsp;
 
 ## **- Design and architecture**
 Data structures and algorithms are necessary to write understandable and maintainable code.
@@ -53,7 +44,6 @@ Data structures and algorithms are necessary to write understandable and maintai
 | [**Refactoring**](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=1W7MY2DTIXT1J&keywords=Refactoring&qid=1660994924&s=books&sprefix=refactoring%2Cstripbooks-intl-ship%2C145&sr=1-1) | Your code isn't perfect? Let's make it better and better. |
 
 ***
-&nbsp;
 
 ## **- Algorithms and Data Structures**
 Learning algorithms & Data Sstructures is so important, especially if you're considering applying to big companies.
@@ -67,7 +57,6 @@ Learning algorithms & Data Sstructures is so important, especially if you're con
 | [**Grokking Algorithms**](https://www.amazon.fr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230) | Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. |
 
 ***
-&nbsp;
 
 ## **- The linux Kernel**
 Because the kernel is a critical component, even the smallest flaw can take down the biggest infrastructures. Learning how the kernel works is a MUST!
@@ -82,7 +71,6 @@ We need some students to crack the universe and abandon their social life like M
 
 
 ***
-&nbsp;
 
 ## **- Languages**
 We learn languages from videos and it's wrong! Learn from the source:
@@ -101,7 +89,6 @@ We learn languages from videos and it's wrong! Learn from the source:
 > This List is expandable !( JS is welcome ^_^ )
 
 ***
-&nbsp;
 
 ## **- AI and Data Science**
 Let's explore the skill of the century !!
@@ -113,7 +100,6 @@ Let's explore the skill of the century !!
 | [**Designing Machine Learning Systems**](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=23B0KAOTJ2L6R&keywords=Designing+Machine+Learning+Systems&qid=1660995880&s=books&sprefix=designing+machine+learning+systems%2Cstripbooks-intl-ship%2C153&sr=1-1) | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
 
 ***
-&nbsp;
 
 ## **- Information Security**
 The biggest issue you'll face in security, and in life, is your own stupidity.
@@ -141,8 +127,6 @@ The books found here are not really categorized and can be anything, under the I
 ## Where is the X book
 May the strength of Ares and wisdom of Athena see you through.
 Feel free to pull request and we will discuss the X book.
-
-&nbsp;
 
 # Athena Club Moderators
 Maher Azzouzi - Ismail Ait Bella
