@@ -60,7 +60,7 @@ Learning algorithms & Data Sstructures is so important, especially if you're con
 
 ## **- The linux Kernel**
 Because the kernel is a critical component, even the smallest flaw can take whole infrastructures down. Learning how the kernel works is a MUST!
-We need some students to crack the universe and abandon their social life like Maher did.
+We need some students to crack the universe and have no life. Maher recommended those books.
 
 | Book | Description |
 | ---- | ----------- |
