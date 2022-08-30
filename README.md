@@ -122,6 +122,7 @@ The books found here are not really categorized and can be anything, under the I
 | [**RTFM (RED TEAM FIELD MANUAL)**](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)  | Just like the name says, this book is for red teams who occasionally find themselves scanning through man pages|
 | [**APPRENDRE 3.0**](https://www.amazon.com/Apprendre-3-0-linventeur-p%C3%A9dagogie-Epitech/dp/2412047995) | A book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
 | [**The Mythical Man-Month**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?keywords=the+mythical+man-month&qid=1660996124&s=books&sprefix=the+mythical+%2Cstripbooks-intl-ship%2C152&sr=1-1) | Essays on Software Engineering and project management |
+| [**Practical Reverse Engineering**](https://www.amazon.com/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315/) | Analyzing how hacks are done, so as to stop them in the future. |
 
 ***
 ## Where is the X book
