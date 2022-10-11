@@ -62,10 +62,8 @@ Learning algorithms & Data Sstructures is so important, especially if you're con
 | [**Introduction to Algorithms**](https://www.amazon.com/dp/026204630X) | Uniquely combines rigor and comprehensiveness, this book covers a broad range of algorithms in depth. |
 | [**A common sense guide to data structures and algorithms**](https://www.amazon.com/dp/1680507222) | A beginner friendly book for algorithms and data structures |
 | [**The Algorithm Design Manual**](https://www.amazon.com/dp/3030542556) | Let's get some 1337KH students into FAANG. |
-| [**Cracking the Coding Interview**](https://www.amazon.com/dp/0984782850) | Programming Questions and Solutions |
+| [**Cracking the Coding Interview: 189 Programming Questions and Solutions**](https://www.amazon.com/dp/0984782850) | Programming Questions and Solutions |
 | [**Grokking Algorithms**](https://www.amazon.fr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230) | Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. |
-| [**Algorithms design manual**](https://www.amazon.com/dp/1849967202)| description is coming |
-| [**Cracking the Coding Interview: 189 Programming Questions and Solutions**](https://www.amazon.com/dp/0984782850)| description is coming |
 
 ***
 
@@ -81,9 +79,9 @@ We need some students to crack the universe and have no life. Maher recommended 
 | [**A Guide to Kernel Exploitation: Attacking the Core**](https://www.amazon.com/dp/1597494860) | Learn common kernel programming mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
 | [**Advanced Programming in the UNIX Environment, 3rd Edition**](https://www.amazon.com/dp/0321637739)| description is coming |
 | [**The Linux Programming Interface: A Linux and UNIX System Programming Handbook**](https://www.amazon.com/dp/1593272200)| description is coming |
-| **How Linux Works** |  |
-| **The Linux Command Line** | |
-| **The Art of UNIX Programming** | Addison-Wesley Professional Computing Series |
+| [**How Linux Works**](https://www.amazon.com/dp/1593275676) |  |
+| [**The Linux Command Line**] |(https://www.amazon.com/dp/1593273894) |
+| [**The Art of UNIX Programming**](https://www.amazon.com/dp/0131429019) | Addison-Wesley Professional Computing Series |
 
 
 ***
@@ -94,7 +92,7 @@ We learn languages from videos and it's wrong! Learn from the source:
 | Book | Description |
 | ---- | ----------- |
 | [**The C programming language**](https://www.amazon.com/dp/0131103628) | |
-| **C Programming A Modern Approach** ||
+| [**C Programming A Modern Approach**](https://www.amazon.com/dp/0393979504) ||
 | [**Effective C++**](https://www.amazon.com/dp/0321334876) | |
 | [**Zero To Production In Rust**](https://www.goodreads.com/en/book/show/55730109-zero-to-production-in-rust)   | 🦀 |
 | [**Rust for rustaceans**](https://www.amazon.com/dp/B0957SWKBS)          | 🦀 |
