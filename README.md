@@ -42,15 +42,14 @@ Data structures and algorithms are necessary to write understandable and maintai
 | [**Code Complete: a Practical Handbook of Software Construction**](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?crid=1UTSPLE11XO91&keywords=Code+Complete%3A+a+Practical+Handbook+of+Software+Construction&qid=1660994854&sprefix=code+complete+a+practical+handbook+of+software+construction%2Caps%2C223&sr=8-1) | A nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
 | [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=2GA2254ZOZWO2&keywords=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software&qid=1660994891&sprefix=design+patterns+elements+of+reusable+object-oriented+software%2Caps%2C160&sr=8-1) | This is an introduction to follow patterns that all programmers are familiar with. |
 | [**Refactoring**](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=1W7MY2DTIXT1J&keywords=Refactoring&qid=1660994924&s=books&sprefix=refactoring%2Cstripbooks-intl-ship%2C145&sr=1-1) | Your code isn't perfect? Let's make it better and better. |
-| [** Programming Pearls **](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)| description is coming |
-| | description is coming |
-| [** The Practice of Programming (Addison-Wesley Professional Computing Series) **](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X)| description is coming |
-| [** Structure and Interpretation of Computer Programs **](https://www.amazon.com/dp/0262510871)| description is coming |
-| [** Domain-Driven Design: Tackling Complexity in the Heart of Software **](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)| description is coming |
-| [** Patterns of Enterprise Application Architecture **](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)| description is coming |
-| [** Working Effectively with Legacy Code **](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)| description is coming |
-| [** Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems **](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)| description is coming |
-| [** Clean Architecture: A Craftsman's Guide to Software Structure and Design **](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)| description is coming |
+| [**Programming Pearls**](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)| description is coming |
+| [**The Practice of Programming (Addison-Wesley Professional Computing Series)**](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X)| description is coming |
+| [**Structure and Interpretation of Computer Programs**](https://www.amazon.com/dp/0262510871)| description is coming |
+| [**Domain-Driven Design: Tackling Complexity in the Heart of Software**](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)| description is coming |
+| [**Patterns of Enterprise Application Architecture**](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)| description is coming |
+| [**Working Effectively with Legacy Code**](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)| description is coming |
+| [**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)| description is coming |
+| [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)| description is coming |
 | **Code: The Hidden Language of Computer Hardware and Software** | Developer Best Practices |
 
 ***
@@ -65,8 +64,8 @@ Learning algorithms & Data Sstructures is so important, especially if you're con
 | [**The Algorithm Design Manual**](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=sr_1_1?crid=15PRTNSUMTJZJ&keywords=The+Algorithm+Design+Manual&qid=1660994977&s=books&sprefix=the+algorithm+design+manual%2Cstripbooks-intl-ship%2C141&sr=1-1) | Let's get some 1337KH students into FAANG. |
 | [**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_3839_sccl_2/137-5769906-1631026?pd_rd_i=0984782850&psc=1) | Programming Questions and Solutions |
 | [**Grokking Algorithms**](https://www.amazon.fr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230) | Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. |
-| [** Algorithms design manual **](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)| description is coming |
-| [** Cracking the Coding Interview: 189 Programming Questions and Solutions **](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)| description is coming |
+| [**Algorithms design manual**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)| description is coming |
+| [**Cracking the Coding Interview: 189 Programming Questions and Solutions**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)| description is coming |
 
 ***
 
@@ -80,8 +79,8 @@ We need some students to crack the universe and have no life. Maher recommended 
 | [**Linux Device Driver**](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_1?crid=1MUB02JFUS1QR&keywords=Linux+Device+Driver&qid=1660995123&s=books&sprefix=linux+device+driver%2Cstripbooks-intl-ship%2C161&sr=1-1) | Learn the module subsystem and driver development.|
 | [**Linux Kernel development**](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_1?crid=2Y1KUVA8Z6JOF&keywords=Linux+Kernel+development&qid=1660995147&s=books&sprefix=linux+kernel+development%2Cstripbooks-intl-ship%2C154&sr=1-1) | Learn how to help developping the kernel maybe introduce a new subsystem.|
 | [**A Guide to Kernel Exploitation: Attacking the Core**](https://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860/ref=sr_1_1?crid=3GDZQPZA762WB&keywords=A+Guide+to+Kernel+Exploitation%3A+Attacking+the+Core&qid=1660995175&s=books&sprefix=a+guide+to+kernel+exploitation+attacking+the+core%2Cstripbooks-intl-ship%2C160&sr=1-1)| Learn common kernel programming mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
-| [** Advanced Programming in the UNIX Environment, 3rd Edition **](https://www.amazon.com/dp/0321637739)| description is coming |
-| [** The Linux Programming Interface: A Linux and UNIX System Programming Handbook **](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)| description is coming |
+| [**Advanced Programming in the UNIX Environment, 3rd Edition**](https://www.amazon.com/dp/0321637739)| description is coming |
+| [**The Linux Programming Interface: A Linux and UNIX System Programming Handbook**](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)| description is coming |
 | **How Linux Works** |  |
 | **The Linux Command Line** | |
 | **The Art of UNIX Programming** | Addison-Wesley Professional Computing Series |
@@ -103,11 +102,11 @@ We learn languages from videos and it's wrong! Learn from the source:
 | [**Eloquent javascript**](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=sr_1_1?keywords=eloquent+javascript&qid=1660995730&s=books&sprefix=eloquen%2Cstripbooks-intl-ship%2C162&sr=1-1)          | 🤑 |
 | [**You don't know Js**](https://www.amazon.com/You-Dont-Know-JS-Yet/dp/B084DFZ6GW/ref=sr_1_1?keywords=you+don%27t+know+js&qid=1660995754&s=books&sprefix=you+don%27t+kn%2Cstripbooks-intl-ship%2C160&sr=1-1)            | |
 | [**Fluent Python**](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?keywords=fluent+python&qid=1660995775&s=books&sprefix=fluent+%2Cstripbooks-intl-ship%2C164&sr=1-1)                | |
-| [** You Don't Know JS **](https://github.com/getify/You-Dont-Know-JS)| description is coming |
-| [** Effective JavaScript **](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)| description is coming |
-| [** High Performance JavaScript **](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/)| description is coming |
-| [** JavaScript: The Definitive Guide **](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)| description is coming |
-| [** JavaScript: The Good Part **](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)| description is coming |
+| [**You Don't Know JS**](https://github.com/getify/You-Dont-Know-JS)| description is coming |
+| [**Effective JavaScript**](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)| description is coming |
+| [**High Performance JavaScript**](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/)| description is coming |
+| [**JavaScript: The Definitive Guide**](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)| description is coming |
+| [**JavaScript: The Good Part**](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)| description is coming |
 
 > This List is expandable !( JS is welcome ^_^ )
 
@@ -120,17 +119,17 @@ Let's explore the skill of the century !!
 | ---- | ----------- |
 | [**The Machine Learning Simplified: A Gentle Introduction to Supervised Learning**](https://www.amazon.com/Machine-Learning-Simplified-Introduction-Supervised-ebook/dp/B0B216KMM4/ref=sr_1_1?crid=35ABHT3NVYAOD&keywords=The+Machine+Learning+Simplified%3A+A+Gentle+Introduction+to+Supervised+Learning&qid=1660995833&s=books&sprefix=the+machine+learning+simplified+a+gentle+introduction+to+supervised+learning%2Cstripbooks-intl-ship%2C170&sr=1-1) | (beginner) Simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes. |
 | [**Designing Machine Learning Systems**](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=23B0KAOTJ2L6R&keywords=Designing+Machine+Learning+Systems&qid=1660995880&s=books&sprefix=designing+machine+learning+systems%2Cstripbooks-intl-ship%2C153&sr=1-1) | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
-| [** Approaching (Almost) Any Machine Learning Problem **](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)| description is coming |
-| [** Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD **](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)| description is coming |
-| [** Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems **](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)| description is coming |
-| [** Grokking Deep Learning **](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)| description is coming |
-| [** Deep Learning with Python (Second Edition) **](https://www.amazon.com/Learning-Python-Second-François-Chollet/dp/1617296864)| description is coming |
-| [** Machine Learning With PyTorch and Scikit-Learn By sebastian raschka **](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)| description is coming |
-| [** Practical Natural Language Processing A Comprehensive Guide to Building Real-World NLP Systems **](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054)| description is coming |
-| [** Natural Language Processing with Transformers: Building Language Applications with Hugging Face **](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)| description is coming |
-| [** Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures **](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089)| description is coming |
-| [** Mathematics for Machine Learning (the one by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth) **](https://mml-book.github.io/book/mml-book.pdf)| description is coming |
-| [** Introduction to Machine Learning with Python: A Guide for Data Scientists **](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)| description is coming |
+| [**Approaching (Almost) Any Machine Learning Problem**](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)| description is coming |
+| [**Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD**](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)| description is coming |
+| [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)| description is coming |
+| [**Grokking Deep Learning**](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)| description is coming |
+| [**Deep Learning with Python (Second Edition)**](https://www.amazon.com/Learning-Python-Second-François-Chollet/dp/1617296864)| description is coming |
+| [**Machine Learning With PyTorch and Scikit-Learn By sebastian raschka**](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)| description is coming |
+| [**Practical Natural Language Processing A Comprehensive Guide to Building Real-World NLP Systems**](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054)| description is coming |
+| [**Natural Language Processing with Transformers: Building Language Applications with Hugging Face**](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)| description is coming |
+| [**Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures**](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089)| description is coming |
+| [**Mathematics for Machine Learning (the one by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth)**](https://mml-book.github.io/book/mml-book.pdf)| description is coming |
+| [**Introduction to Machine Learning with Python: A Guide for Data Scientists**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)| description is coming |
 
 ***
 
