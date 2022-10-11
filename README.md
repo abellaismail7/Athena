@@ -50,7 +50,7 @@ Data structures and algorithms are necessary to write understandable and maintai
 | [**Working Effectively with Legacy Code**](https://www.amazon.com/dp/0131177052)| description is coming |
 | [**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/dp/1449373321)| description is coming |
 | [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/dp/0134494164)| description is coming |
-| **Code: The Hidden Language of Computer Hardware and Software** | Developer Best Practices |
+| [**Code: The Hidden Language of Computer Hardware and Software**](https://www.amazon.com/dp/0735611319) | Developer Best Practices |
 
 ***
 
