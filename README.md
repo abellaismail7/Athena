@@ -28,7 +28,7 @@ There are some highly recommended books in computer science that are going to be
 Books outlining theoretical computer science concepts, and underlying fundamentals.
 | Book | Description |
 | ---- | ----------- |
-| [**Structure and Interpretation of Computer Programs**](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871) |  Known as the "Wizard Book" in the hacker culture. It teaches fundamental principles of computer programming, including : recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) / [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
+| [**Structure and Interpretation of Computer Programs**](https://www.amazon.com/dp/0262510871) |  Known as the "Wizard Book" in the hacker culture. It teaches fundamental principles of computer programming, including : recursion, abstraction, modularity, and programming language design and implementation. [wikipedia](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs) / [course](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
 ***
 
 ## **- Design and architecture**
@@ -36,20 +36,20 @@ Data structures and algorithms are necessary to write understandable and maintai
 
 | Book | Description |
 | ---- | ----------- |
-| [**Clean Code**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?crid=2J5J4A3AFT1NV&keywords=Clean+Code&qid=1660994679&s=books&sprefix=clean+code%2Cstripbooks-intl-ship%2C141&sr=1-1) | The most popular book among developers, it will help you improve readability and testability of your code, which makes a person a programmer, and a GOOD one. |
-| [**The Clean Coder**](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/B08X7MNTCX/ref=sr_1_1?crid=I0M4UO3RDOWW&keywords=The+Clean+Coder&qid=1660994707&s=books&sprefix=the+clean+coder%2Cstripbooks-intl-ship%2C144&sr=1-1) | The Clean Coder refers to the behaviour and discipline in being a programmer and working in a team; making estimations for your tasks, and how to be a professional in the field. |
-| [**Pragmatic Programmer**](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=K8YTSBYF0SXD&keywords=Pragmatic+Programmer&qid=1660994734&s=audible&sprefix=pragmatic+programmer%2Caudible%2C147&sr=1-1) | Time is money, this book will help you do your job in the most pragmatic way to help you save time (it's good for beginners). |
-| [**Code Complete: a Practical Handbook of Software Construction**](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?crid=1UTSPLE11XO91&keywords=Code+Complete%3A+a+Practical+Handbook+of+Software+Construction&qid=1660994854&sprefix=code+complete+a+practical+handbook+of+software+construction%2Caps%2C223&sr=8-1) | A nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
-| [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=2GA2254ZOZWO2&keywords=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software&qid=1660994891&sprefix=design+patterns+elements+of+reusable+object-oriented+software%2Caps%2C160&sr=8-1) | This is an introduction to follow patterns that all programmers are familiar with. |
-| [**Refactoring**](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=1W7MY2DTIXT1J&keywords=Refactoring&qid=1660994924&s=books&sprefix=refactoring%2Cstripbooks-intl-ship%2C145&sr=1-1) | Your code isn't perfect? Let's make it better and better. |
-| [**Programming Pearls**](https://www.amazon.com/Programming-Pearls-2nd-Jon-Bentley/dp/0201657880)| description is coming |
-| [**The Practice of Programming (Addison-Wesley Professional Computing Series)**](https://www.amazon.com/Practice-Programming-Addison-Wesley-Professional-Computing/dp/020161586X)| description is coming |
+| [**Clean Code**](https://www.amazon.com/dp/0132350882) | The most popular book among developers, it will help you improve readability and testability of your code, which makes a person a programmer, and a GOOD one. |
+| [**The Clean Coder**](https://www.amazon.com/dp/B08X7MNTCX) | The Clean Coder refers to the behaviour and discipline in being a programmer and working in a team; making estimations for your tasks, and how to be a professional in the field. |
+| [**Pragmatic Programmer**](https://www.amazon.com/dp/B0833FBNHV) | Time is money, this book will help you do your job in the most pragmatic way to help you save time (it's good for beginners). |
+| [**Code Complete: a Practical Handbook of Software Construction**](https://www.amazon.com/dp/0735619670) | A nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
+| [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/dp/0201633612) | This is an introduction to follow patterns that all programmers are familiar with. |
+| [**Refactoring**](https://www.amazon.com/dp/0134757599) | Your code isn't perfect? Let's make it better and better. |
+| [**Programming Pearls**](https://www.amazon.com/dp/0201657880)| description is coming |
+| [**The Practice of Programming (Addison-Wesley Professional Computing Series)**](https://www.amazon.com/dp/020161586X)| description is coming |
 | [**Structure and Interpretation of Computer Programs**](https://www.amazon.com/dp/0262510871)| description is coming |
-| [**Domain-Driven Design: Tackling Complexity in the Heart of Software**](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)| description is coming |
-| [**Patterns of Enterprise Application Architecture**](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)| description is coming |
-| [**Working Effectively with Legacy Code**](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)| description is coming |
-| [**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)| description is coming |
-| [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)| description is coming |
+| [**Domain-Driven Design: Tackling Complexity in the Heart of Software**](https://www.amazon.com/dp/0321125215)| description is coming |
+| [**Patterns of Enterprise Application Architecture**](https://www.amazon.com/dp/0321127420)| description is coming |
+| [**Working Effectively with Legacy Code**](https://www.amazon.com/dp/0131177052)| description is coming |
+| [**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems**](https://www.amazon.com/dp/1449373321)| description is coming |
+| [**Clean Architecture: A Craftsman's Guide to Software Structure and Design**](https://www.amazon.com/dp/0134494164)| description is coming |
 | **Code: The Hidden Language of Computer Hardware and Software** | Developer Best Practices |
 
 ***
@@ -59,13 +59,13 @@ Learning algorithms & Data Sstructures is so important, especially if you're con
 
 | Book | Description |
 | ---- | ----------- |
-| [**Introduction to Algorithms**](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_1?crid=2NEUIGLPZ2HMP&keywords=Introduction+to+Algorithms&qid=1660995050&s=books&sprefix=introduction+to+algorithms%2Cstripbooks-intl-ship%2C144&sr=1-1)  | Uniquely combines rigor and comprehensiveness, this book covers a broad range of algorithms in depth. |
-| [**A common sense guide to data structures and algorithms**](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222/ref=sr_1_1?crid=7IHXSP373XHE&keywords=A+common+sense+guide+to+data+structures+and+algorithms&qid=1660995011&s=books&sprefix=a+common+sense+guide+to+data+structures+and+algorithms%2Cstripbooks-intl-ship%2C143&sr=1-1) | A beginner friendly book for algorithms and data structures |
-| [**The Algorithm Design Manual**](https://www.amazon.com/Algorithm-Design-Manual-Computer-Science/dp/3030542556/ref=sr_1_1?crid=15PRTNSUMTJZJ&keywords=The+Algorithm+Design+Manual&qid=1660994977&s=books&sprefix=the+algorithm+design+manual%2Cstripbooks-intl-ship%2C141&sr=1-1) | Let's get some 1337KH students into FAANG. |
-| [**Cracking the Coding Interview**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=zg_bs_3839_sccl_2/137-5769906-1631026?pd_rd_i=0984782850&psc=1) | Programming Questions and Solutions |
+| [**Introduction to Algorithms**](https://www.amazon.com/dp/026204630X) | Uniquely combines rigor and comprehensiveness, this book covers a broad range of algorithms in depth. |
+| [**A common sense guide to data structures and algorithms**](https://www.amazon.com/dp/1680507222) | A beginner friendly book for algorithms and data structures |
+| [**The Algorithm Design Manual**](https://www.amazon.com/dp/3030542556) | Let's get some 1337KH students into FAANG. |
+| [**Cracking the Coding Interview**](https://www.amazon.com/dp/0984782850) | Programming Questions and Solutions |
 | [**Grokking Algorithms**](https://www.amazon.fr/Grokking-Algorithms-Aditya-Y-Bhargava/dp/1617292230) | Grokking Algorithms is a fully illustrated, friendly guide that teaches you how to apply common algorithms to the practical problems you face every day as a programmer. |
-| [**Algorithms design manual**](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)| description is coming |
-| [**Cracking the Coding Interview: 189 Programming Questions and Solutions**](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)| description is coming |
+| [**Algorithms design manual**](https://www.amazon.com/dp/1849967202)| description is coming |
+| [**Cracking the Coding Interview: 189 Programming Questions and Solutions**](https://www.amazon.com/dp/0984782850)| description is coming |
 
 ***
 
@@ -75,12 +75,12 @@ We need some students to crack the universe and have no life. Maher recommended 
 
 | Book | Description |
 | ---- | ----------- |
-| [**Understanding the linux kernel**](https://www.amazon.com/Understanding-Linux-Kernel-Third-Daniel/dp/0596005652/ref=sr_1_1?crid=391CK20LZH4Y3&keywords=Understanding+the+linux+kernel&qid=1660995088&s=books&sprefix=understanding+the+linux+kernel%2Cstripbooks-intl-ship%2C154&sr=1-1) | Learn the internals of the greatest kernel ever written on this fucking planet.|
-| [**Linux Device Driver**](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_1?crid=1MUB02JFUS1QR&keywords=Linux+Device+Driver&qid=1660995123&s=books&sprefix=linux+device+driver%2Cstripbooks-intl-ship%2C161&sr=1-1) | Learn the module subsystem and driver development.|
-| [**Linux Kernel development**](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_1?crid=2Y1KUVA8Z6JOF&keywords=Linux+Kernel+development&qid=1660995147&s=books&sprefix=linux+kernel+development%2Cstripbooks-intl-ship%2C154&sr=1-1) | Learn how to help developping the kernel maybe introduce a new subsystem.|
-| [**A Guide to Kernel Exploitation: Attacking the Core**](https://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860/ref=sr_1_1?crid=3GDZQPZA762WB&keywords=A+Guide+to+Kernel+Exploitation%3A+Attacking+the+Core&qid=1660995175&s=books&sprefix=a+guide+to+kernel+exploitation+attacking+the+core%2Cstripbooks-intl-ship%2C160&sr=1-1)| Learn common kernel programming mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
+| [**Understanding the linux kernel**](https://www.amazon.com/dp/0596005652) | Learn the internals of the greatest kernel ever written on this fucking planet.|
+| [**Linux Device Driver**](https://www.amazon.com/dp/0596005903) | Learn the module subsystem and driver development.|
+| [**Linux Kernel development**](https://www.amazon.com/dp/0672329468) | Learn how to help developping the kernel maybe introduce a new subsystem.|
+| [**A Guide to Kernel Exploitation: Attacking the Core**](https://www.amazon.com/dp/1597494860) | Learn common kernel programming mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
 | [**Advanced Programming in the UNIX Environment, 3rd Edition**](https://www.amazon.com/dp/0321637739)| description is coming |
-| [**The Linux Programming Interface: A Linux and UNIX System Programming Handbook**](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200)| description is coming |
+| [**The Linux Programming Interface: A Linux and UNIX System Programming Handbook**](https://www.amazon.com/dp/1593272200)| description is coming |
 | **How Linux Works** |  |
 | **The Linux Command Line** | |
 | **The Art of UNIX Programming** | Addison-Wesley Professional Computing Series |
@@ -93,20 +93,20 @@ We learn languages from videos and it's wrong! Learn from the source:
 
 | Book | Description |
 | ---- | ----------- |
-| [**The C programming language**](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/ref=sr_1_1?crid=QXMFTNGMHXVU&keywords=The+C+programming+language&qid=1660995212&s=books&sprefix=the+c+programming+language%2Cstripbooks-intl-ship%2C145&sr=1-1)   | |
+| [**The C programming language**](https://www.amazon.com/dp/0131103628) | |
 | **C Programming A Modern Approach** ||
-| [**Effective C++**](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876/ref=sr_1_1?crid=1MQVZTTE31F2K&keywords=Effective+C%2B%2B&qid=1660995601&s=books&sprefix=effective+c%2B%2Cstripbooks-intl-ship%2C165&sr=1-1)                | |
+| [**Effective C++**](https://www.amazon.com/dp/0321334876) | |
 | [**Zero To Production In Rust**](https://www.goodreads.com/en/book/show/55730109-zero-to-production-in-rust)   | 🦀 |
-| [**Rust for rustaceans**](https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers-ebook/dp/B0957SWKBS)          | 🦀 |
-| [**Writing An Interpreter In Go**](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118/ref=sr_1_1?keywords=writing+an+interpreter+in+go&qid=1660995709&s=books&sprefix=writing+an+interpte%2Cstripbooks-intl-ship%2C169&sr=1-1) | |
-| [**Eloquent javascript**](https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507/ref=sr_1_1?keywords=eloquent+javascript&qid=1660995730&s=books&sprefix=eloquen%2Cstripbooks-intl-ship%2C162&sr=1-1)          | 🤑 |
-| [**You don't know Js**](https://www.amazon.com/You-Dont-Know-JS-Yet/dp/B084DFZ6GW/ref=sr_1_1?keywords=you+don%27t+know+js&qid=1660995754&s=books&sprefix=you+don%27t+kn%2Cstripbooks-intl-ship%2C160&sr=1-1)            | |
-| [**Fluent Python**](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?keywords=fluent+python&qid=1660995775&s=books&sprefix=fluent+%2Cstripbooks-intl-ship%2C164&sr=1-1)                | |
+| [**Rust for rustaceans**](https://www.amazon.com/dp/B0957SWKBS)          | 🦀 |
+| [**Writing An Interpreter In Go**](https://www.amazon.com/dp/3982016118) | |
+| [**Eloquent javascript**](https://www.amazon.com/dp/1593279507) | 🤑 |
+| [**You don't know Js**](https://www.amazon.com/dp/B084DFZ6GW) | |
+| [**Fluent Python**](https://www.amazon.com/dp/1491946008) | |
 | [**You Don't Know JS**](https://github.com/getify/You-Dont-Know-JS)| description is coming |
-| [**Effective JavaScript**](https://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)| description is coming |
+| [**Effective JavaScript**](https://www.amazon.com/dp/0321812182)| description is coming |
 | [**High Performance JavaScript**](https://www.oreilly.com/library/view/high-performance-javascript/9781449382308/)| description is coming |
-| [**JavaScript: The Definitive Guide**](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527)| description is coming |
-| [**JavaScript: The Good Part**](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)| description is coming |
+| [**JavaScript: The Definitive Guide**](https://www.amazon.com/dp/0596805527)| description is coming |
+| [**JavaScript: The Good Part**](https://www.amazon.com/dp/0596517742)| description is coming |
 
 > This List is expandable !( JS is welcome ^_^ )
 
@@ -117,17 +117,17 @@ Let's explore the skill of the century !!
 
 | Book | Description |
 | ---- | ----------- |
-| [**The Machine Learning Simplified: A Gentle Introduction to Supervised Learning**](https://www.amazon.com/Machine-Learning-Simplified-Introduction-Supervised-ebook/dp/B0B216KMM4/ref=sr_1_1?crid=35ABHT3NVYAOD&keywords=The+Machine+Learning+Simplified%3A+A+Gentle+Introduction+to+Supervised+Learning&qid=1660995833&s=books&sprefix=the+machine+learning+simplified+a+gentle+introduction+to+supervised+learning%2Cstripbooks-intl-ship%2C170&sr=1-1) | (beginner) Simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes. |
-| [**Designing Machine Learning Systems**](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=23B0KAOTJ2L6R&keywords=Designing+Machine+Learning+Systems&qid=1660995880&s=books&sprefix=designing+machine+learning+systems%2Cstripbooks-intl-ship%2C153&sr=1-1) | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
+| [**The Machine Learning Simplified: A Gentle Introduction to Supervised Learning**](https://www.amazon.com/dp/B0B216KMM4) | (beginner) Simple intuitive examples to explain complex concepts, algorithms or methods, as well as democratize all math behind the scenes. |
+| [**Designing Machine Learning Systems**](https://www.amazon.com/dp/1098107969) | (advanced) This book is for anyone who wants to leverage ML to solve real-world problems |
 | [**Approaching (Almost) Any Machine Learning Problem**](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)| description is coming |
-| [**Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD**](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)| description is coming |
-| [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)| description is coming |
-| [**Grokking Deep Learning**](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)| description is coming |
-| [**Deep Learning with Python (Second Edition)**](https://www.amazon.com/Learning-Python-Second-François-Chollet/dp/1617296864)| description is coming |
-| [**Machine Learning With PyTorch and Scikit-Learn By sebastian raschka**](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-learning-ebook/dp/B09NW48MR1)| description is coming |
-| [**Practical Natural Language Processing A Comprehensive Guide to Building Real-World NLP Systems**](https://www.amazon.com/Practical-Natural-Language-Processing-Pragmatic/dp/1492054054)| description is coming |
-| [**Natural Language Processing with Transformers: Building Language Applications with Hugging Face**](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)| description is coming |
-| [**Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures**](https://www.amazon.com/Fundamentals-Data-Visualization-Informative-Compelling/dp/1492031089)| description is coming |
+| [**Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD**](https://www.amazon.com/dp/1492045527)| description is coming |
+| [**Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems**](https://www.amazon.com/dp/1491962291)| description is coming |
+| [**Grokking Deep Learning**](https://www.amazon.com/dp/1617293709)| description is coming |
+| [**Deep Learning with Python (Second Edition)**](https://www.amazon.com/dp/1617296864)| description is coming |
+| [**Machine Learning With PyTorch and Scikit-Learn By sebastian raschka**](https://www.amazon.com/dp/B09NW48MR1)| description is coming |
+| [**Practical Natural Language Processing A Comprehensive Guide to Building Real-World NLP Systems**](https://www.amazon.com/dp/1492054054)| description is coming |
+| [**Natural Language Processing with Transformers: Building Language Applications with Hugging Face**](https://www.amazon.com/dp/1098103246)| description is coming |
+| [**Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures**](https://www.amazon.com/dp/1492031089)| description is coming |
 | [**Mathematics for Machine Learning (the one by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth)**](https://mml-book.github.io/book/mml-book.pdf)| description is coming |
 | [**Introduction to Machine Learning with Python: A Guide for Data Scientists**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)| description is coming |
 
@@ -138,12 +138,12 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 
 | Book | Description |
 | ---- | ----------- |
-| [**Android Security Internals**](https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811/ref=sr_1_1?keywords=android+security+internals&qid=1660995903&s=books&sprefix=android+security+in%2Cstripbooks-intl-ship%2C162&sr=1-1)  | An In-Depth Guide to Android's Security Architecture
-| [**Android Hacker's Handbook**](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/ref=sr_1_1?crid=8145BWVITJIG&keywords=android+hacker%27s+handbook&qid=1660995925&s=books&sprefix=android+hacker%27s+handbook%2Cstripbooks-intl-ship%2C154&sr=1-1)  | Discovering and preventing attacks on the Android OS
-| [**The Art of macOS malware**](https://www.amazon.com/Art-Mac-Malware-Analyzing-Malicious/dp/1718501943) | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
-| [**Bug Bounty Bootcamp**](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544/ref=sr_1_1?keywords=bug+bounty+bootcamp&qid=1660995981&s=books&sprefix=bug+boun%2Cstripbooks-intl-ship%2C156&sr=1-1) | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
-| [**Black Hat Go**](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=sr_1_1?crid=1WFXR3928KV37&keywords=black+hat+go&qid=1660996001&s=books&sprefix=black+hat+go%2Cstripbooks-intl-ship%2C161&sr=1-1) | Explore the darker side of Go. |
-| [**Hacking APIs**](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443/ref=sr_1_1?crid=TS8VZBW5EJV4&keywords=hacking+APIs&qid=1660996022&s=books&sprefix=hacking+apis%2Cstripbooks-intl-ship%2C148&sr=1-1) | A detailed course to conduct web API security testing. |
+| [**Android Security Internals**](https://www.amazon.com/dp/1593275811) | An In-Depth Guide to Android's Security Architecture
+| [**Android Hacker's Handbook**](https://www.amazon.com/dp/111860864X) | Discovering and preventing attacks on the Android OS
+| [**The Art of macOS malware**](https://www.amazon.com/dp/1718501943) | A comprehensive handbook to macOS internals and cracking open these malicious programs and seeing what’s inside.|
+| [**Bug Bounty Bootcamp**](https://www.amazon.com/dp/1718501544) | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
+| [**Black Hat Go**](https://www.amazon.com/dp/1593278659) | Explore the darker side of Go. |
+| [**Hacking APIs**](https://www.amazon.com/dp/1718502443) | A detailed course to conduct web API security testing. |
 
 
 ## **- Miscellaneous**
@@ -151,9 +151,9 @@ The books found here are not really categorized and can be anything, under the I
 
 | Book | Description |
 | ---- | ----------- |
-| [**RTFM (RED TEAM FIELD MANUAL)**](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504)  | Just like the name says, this book is for red teams who occasionally find themselves scanning through man pages|
-| [**APPRENDRE 3.0**](https://www.amazon.com/Apprendre-3-0-linventeur-p%C3%A9dagogie-Epitech/dp/2412047995) | A book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
-| [**The Mythical Man-Month**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/ref=sr_1_1?keywords=the+mythical+man-month&qid=1660996124&s=books&sprefix=the+mythical+%2Cstripbooks-intl-ship%2C152&sr=1-1) | Essays on Software Engineering and project management |
+| [**RTFM (RED TEAM FIELD MANUAL)**](https://www.amazon.com/dp/1494295504)  | Just like the name says, this book is for red teams who occasionally find themselves scanning through man pages|
+| [**APPRENDRE 3.0**](https://www.amazon.com/dp/2412047995) | A book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
+| [**The Mythical Man-Month**](https://www.amazon.com/dp/0201835959) | Essays on Software Engineering and project management |
 
 ***
 ## Where is the X book
