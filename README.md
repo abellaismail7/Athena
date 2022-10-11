@@ -42,6 +42,8 @@ Data structures and algorithms are necessary to write understandable and maintai
 | [**Code Complete: a Practical Handbook of Software Construction**](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670/ref=sr_1_1?crid=1UTSPLE11XO91&keywords=Code+Complete%3A+a+Practical+Handbook+of+Software+Construction&qid=1660994854&sprefix=code+complete+a+practical+handbook+of+software+construction%2Caps%2C223&sr=8-1) | A nice addition to The Pragmatic Programmer, gives you the necessary framework to talk about code. |
 | [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=sr_1_1?crid=2GA2254ZOZWO2&keywords=Design+Patterns%3A+Elements+of+Reusable+Object-Oriented+Software&qid=1660994891&sprefix=design+patterns+elements+of+reusable+object-oriented+software%2Caps%2C160&sr=8-1) | This is an introduction to follow patterns that all programmers are familiar with. |
 | [**Refactoring**](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/ref=sr_1_1?crid=1W7MY2DTIXT1J&keywords=Refactoring&qid=1660994924&s=books&sprefix=refactoring%2Cstripbooks-intl-ship%2C145&sr=1-1) | Your code isn't perfect? Let's make it better and better. |
+| **C Programming A Modern Approach** ||
+| **Code: The Hidden Language of Computer Hardware and Software** | Developer Best Practices |
 
 ***
 
@@ -68,6 +70,9 @@ We need some students to crack the universe and have no life. Maher recommended 
 | [**Linux Device Driver**](https://www.amazon.com/Linux-Device-Drivers-Jonathan-Corbet/dp/0596005903/ref=sr_1_1?crid=1MUB02JFUS1QR&keywords=Linux+Device+Driver&qid=1660995123&s=books&sprefix=linux+device+driver%2Cstripbooks-intl-ship%2C161&sr=1-1) | Learn the module subsystem and driver development.|
 | [**Linux Kernel development**](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468/ref=sr_1_1?crid=2Y1KUVA8Z6JOF&keywords=Linux+Kernel+development&qid=1660995147&s=books&sprefix=linux+kernel+development%2Cstripbooks-intl-ship%2C154&sr=1-1) | Learn how to help developping the kernel maybe introduce a new subsystem.|
 | [**A Guide to Kernel Exploitation: Attacking the Core**](https://www.amazon.com/Guide-Kernel-Exploitation-Attacking-Core/dp/1597494860/ref=sr_1_1?crid=3GDZQPZA762WB&keywords=A+Guide+to+Kernel+Exploitation%3A+Attacking+the+Core&qid=1660995175&s=books&sprefix=a+guide+to+kernel+exploitation+attacking+the+core%2Cstripbooks-intl-ship%2C160&sr=1-1)| Learn common kernel programming mistakes and avoid them in your own code. (This book covers the most known UNIX derivatives, Mac OS XNU kernel, Windows NT too).
+| **How Linux Works** |  |
+| **The Linux Command Line** | |
+| **The Art of UNIX Programming** | Addison-Wesley Professional Computing Series |
 
 
 ***
