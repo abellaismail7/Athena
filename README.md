@@ -145,6 +145,12 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 | [**Black Hat Go**](https://www.amazon.com/dp/1593278659) | Explore the darker side of Go. |
 | [**Hacking APIs**](https://www.amazon.com/dp/1718502443) | A detailed course to conduct web API security testing. |
 
+## **- Networking**
+Net Practice is a joke we are serious now!
+| Book | Description |
+| ---- | ----------- |
+| [** CompTIA Network+ Certification Study Guide, 4th Edition **](https://www.amazon.com/dp/0071615385)| description is coming |
+| [** Networking Essentials: A CompTIA Network+ 2nd Edition **](https://www.amazon.com/dp/0789758199)| description is coming |
 
 ## **- Miscellaneous**
 The books found here are not really categorized and can be anything, under the IT umbrella.
@@ -154,6 +160,7 @@ The books found here are not really categorized and can be anything, under the I
 | [**RTFM (RED TEAM FIELD MANUAL)**](https://www.amazon.com/dp/1494295504)  | Just like the name says, this book is for red teams who occasionally find themselves scanning through man pages|
 | [**APPRENDRE 3.0**](https://www.amazon.com/dp/2412047995) | A book by the inventor of the pedagogy of Epita, Epitech, school 42 and zone 01|
 | [**The Mythical Man-Month**](https://www.amazon.com/dp/0201835959) | Essays on Software Engineering and project management |
+| [** GÃ¶del, Escher, Bach: An Eternal Golden Braid **](https://www.amazon.com/dp/0465026567)| description is coming |
 
 ***
 ## Where is the X book
