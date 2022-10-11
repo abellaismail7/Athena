@@ -1,5 +1,5 @@
 # Athena
-Athena is comming to our school ( **1337KH** ) with blessing of God.
+Athena is coming to our school ( **1337KH** ) with blessing of God.
 
 <img src="./assets/school_of_athen.jpg">
 
