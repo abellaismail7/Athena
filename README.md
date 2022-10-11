@@ -112,6 +112,7 @@ The biggest issue you'll face in security, and in life, is your own stupidity.
 | [**Bug Bounty Bootcamp**](https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities/dp/1718501544/ref=sr_1_1?keywords=bug+bounty+bootcamp&qid=1660995981&s=books&sprefix=bug+boun%2Cstripbooks-intl-ship%2C156&sr=1-1) | Bug Bounty Bootcamp is a detailed exploration of the many vulnerabilities present in modern websites and the hands-on techniques you can use to most successfully exploit them.|
 | [**Black Hat Go**](https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659/ref=sr_1_1?crid=1WFXR3928KV37&keywords=black+hat+go&qid=1660996001&s=books&sprefix=black+hat+go%2Cstripbooks-intl-ship%2C161&sr=1-1) | Explore the darker side of Go. |
 | [**Hacking APIs**](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443/ref=sr_1_1?crid=TS8VZBW5EJV4&keywords=hacking+APIs&qid=1660996022&s=books&sprefix=hacking+apis%2Cstripbooks-intl-ship%2C148&sr=1-1) | A detailed course to conduct web API security testing. |
+| [**Black Hat Python**](https://www.amazon.com/Black-Hat-Python-2nd-Programming/dp/1718501129/) | Python is the language of choice for most security analysts. But just how does the magic happen? |
 
 
 ## **- Miscellaneous**
