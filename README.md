@@ -125,7 +125,7 @@ Let's explore the skill of the century !!
 | [**Machine Learning With PyTorch and Scikit-Learn By sebastian raschka**](https://www.amazon.com/dp/B09NW48MR1)| description is coming | 2 |
 | [**Practical Natural Language Processing A Comprehensive Guide to Building Real-World NLP Systems**](https://www.amazon.com/dp/1492054054)| description is coming | 2 |
 | [**Natural Language Processing with Transformers: Building Language Applications with Hugging Face**](https://www.amazon.com/dp/1098103246)| description is coming | Coming soon |
-| [**Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures**](https://www.amazon.com/dp/1492031089)| description is coming | & |
+| [**Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures**](https://www.amazon.com/dp/1492031089)| description is coming | 2 |
 | [**Mathematics for Machine Learning (the one by A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth)**](https://mml-book.github.io/book/mml-book.pdf)| description is coming | Coming soon |
 | [**Introduction to Machine Learning with Python: A Guide for Data Scientists**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)| description is coming | Coming soon |
 
